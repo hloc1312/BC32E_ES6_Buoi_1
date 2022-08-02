@@ -1,1 +1,1 @@
-# BC32E_ES6_Buoi_1
+# BC32E_Nguyễn Hoàng Lộc (Bài tập ES6 buổi 1)
